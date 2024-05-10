@@ -47,6 +47,7 @@ unset key
 set multiplot layout 1,3
 
 set polar
+set angles degrees
 
 ############################################################################
 
